@@ -1,0 +1,36 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace switch_case
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string subject = "Jaui";
+
+            // switch statement 
+            switch (subject)
+            {
+
+                case "Java":
+                    Console.WriteLine("Subject is Java");
+                    break;
+
+                case "C++":
+                    Console.WriteLine("Subject is C++");
+                    break;
+
+                default:
+                    Console.WriteLine("Subject is C#");
+                    break;
+            }
+
+            Console.ReadKey();
+        }
+    }
+    }
+

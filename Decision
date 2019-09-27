@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace decisions
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter a number:");
+            int number = int.Parse(Console.ReadLine());
+            //If statement
+            if (number>0 && number < 50)
+            {
+                Console.WriteLine("You have failed");
+            }
+            //Else if statement
+            else if (number>50 && number < 100)
+            {
+
+                Console.WriteLine("You have Passed");
+            }
+            //else statement
+            else
+            {
+                //Nested If 
+                if (number > 100)
+                {
+                    Console.WriteLine("Out of range ");
+                }
+                else
+                {
+                    Console.WriteLine("Too low");
+                }
+            }
+
+            Console.ReadKey();
+        }
+    }
+}

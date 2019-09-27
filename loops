@@ -1,0 +1,45 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace loops
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int p;
+            int z = 0;
+            int y = 0;
+            //using for
+            Console.WriteLine("Using for loop");
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            Console.WriteLine("Using do while");
+
+            //using do while
+            do
+            {
+                Console.WriteLine(z);
+                z++;
+            }
+
+            while (z < 10);
+
+            //using while
+                  Console.WriteLine("Using while");
+            while (y < 10)
+            {
+                Console.WriteLine(y);
+                y++;
+            }
+
+            Console.ReadLine();
+        }
+    }
+}

@@ -1,0 +1,16 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		double volume, radius;
+		const double pie = 3.142;
+		Console.WriteLine("Enter Radius: ");
+        radius = Convert.ToDouble(Console.ReadLine());
+		volume = (4 * pie * radius * radius * radius) / 3;
+		Console.WriteLine("Volume: {0}", volume);
+        Console.WriteLine("Radius: {0}", radius);
+		
+	}
+}

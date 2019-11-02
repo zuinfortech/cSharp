@@ -1,0 +1,16 @@
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\bin\Debug\StudentMS.exe.config
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\bin\Debug\StudentMS.exe
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\bin\Debug\StudentMS.pdb
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.csprojResolveAssemblyReference.cache
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.addrecordadminform.resources
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.admindashboard.resources
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.adminlogin.resources
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.Form1.resources
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.Properties.Resources.resources
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.studentlogin.resources
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.teacherlogin.resources
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.csproj.GenerateResource.Cache
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.exe
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.pdb
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\bin\Debug\StudentMS.accdb
+c:\users\zutech\documents\visual studio 2012\Projects\StudentMS\StudentMS\obj\Debug\StudentMS.addteacherform.resources
